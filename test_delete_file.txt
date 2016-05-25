@@ -1,2 +1,0 @@
-This file is used to test delete file from github.
-Trying to change the current branch name and sync up with remote repo
